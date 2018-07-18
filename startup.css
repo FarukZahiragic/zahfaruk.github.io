@@ -1,0 +1,20 @@
+body{
+	background-image: url("https://cdn.pixabay.com/photo/2017/03/08/14/20/flat-2126880__340.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 500px 500px;
+} 
+p {
+	font-family: fantasy;
+	font-size: 45px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+.btn-primary{
+	display: table;
+	margin: 0 auto;
+	font-family: fantasy;
+} 
